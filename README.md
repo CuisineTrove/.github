@@ -15,8 +15,8 @@
 Cuisine Trove is a partially open source online cookbook project. Our project is set up so that you can run it locally on your own machine. The service is also available at: somewebsite.com
 
 ## Features
-- Search recipe: by name or ingredients
-- Management of recipes
+- Search for a recipe: by name or ingredients
+- Recipes management
 
 The features will be added on an ongoing basis as the project develops.
 
