@@ -12,11 +12,9 @@
 
 ## Introduction
 
-Cuisine Trove is a partially open source online cookbook project. Thanks to our solution, you can run your book on your local server. The service is also available at: 
+Cuisine Trove is a partially open source online cookbook project. Our project is set up so that you can run it locally on your own machine. The service is also available at: somewebsite.com
 
 ## Features
-
-Example:
 - Search recipe: by name or ingredients
 - Management of recipes
 
