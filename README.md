@@ -1,7 +1,7 @@
 # Cuisine Trove
 
 ![Commits](https://img.shields.io/github/commit-activity/t/CuisineTrove/.github)
-![GitHub issues](https://img.shields.io/github/issues/CuisineTrove/.github)
+![GitHub issues](https://img.shields.io/github/issues/open/CuisineTrove/.github)
 ![GitHub forks](https://img.shields.io/github/forks/CuisineTrove/.github?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/CuisineTrove/.github?style=social)
 
